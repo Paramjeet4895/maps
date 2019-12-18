@@ -34,5 +34,5 @@ export class App extends React.Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: ("AIzaSyDCJOIA3sGdG37ObmUBsBO3dK3aXfkUuLQ")
+  apiKey: ("API KEY")
 })(App)
